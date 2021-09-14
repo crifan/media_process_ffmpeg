@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v1.0",
+  "lastUpdate": "20210914",
+  "gitRepoName": "media_process_ffmpeg",
+  "bookName": "强大的音视频处理工具：FFmpeg",
+  "bookDescription": "介绍音视频处理工具FFmpeg有哪些强大的功能。先对ffmpeg进行概览，包括可以用来干什么，与之相关的ffprobe、ffplay、ffserver等工具；再介绍如何安装ffmpeg；如何用ffmpeg处理音频，比如从音频中提取某段音频片段；以及各种视频处理，包括视频属性的获取和调整，包括调整视频宽高尺寸大小；以及动图gif处理，包括视频转动图、动图转视频；以及水印处理，包括去除视频水印；从视频中提取完整音频和音频片段；字幕相关处理，包括字幕的背景知识，包括软字幕和硬字幕、常见字幕格式ass和srt；以及如何用Aegisub编辑字幕；从视频中提取字幕、从srt转换出ass字幕；嵌入字幕，包括用流拷贝模式嵌入软字幕、用vf模式烧录嵌入硬字幕、且可以指定字幕位置、指定字幕文字属性等；整理ffmpeg使用的心得和常见问题；以及其他有哪些工具软件用到了ffmpeg、如何用Python调用ffmpeg；最后给出附录内容，包括help语法、文档资料等。"
+}
